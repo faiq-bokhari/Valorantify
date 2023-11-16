@@ -1,5 +1,5 @@
 # Valorantify
-Valorant statisting tracking application that has been acquired by THESPIKE.GG: 
+Valorant statistic tracking application that has been acquired by THESPIKE.GG: 
 
 https://www.thespike.gg/news/thespike-gg-acquire-valorantify/331
 
